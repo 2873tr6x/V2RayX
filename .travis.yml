@@ -16,5 +16,5 @@ deploy:
   file: build/Release/V2RayX.app.zip
   skip_cleanup: true
   on:
-    repo: Cenmrev/V2RayX
+    repo: 2873tr6x/V2RayX
     tags: true
